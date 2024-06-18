@@ -3,3 +3,8 @@ linuxserver/heimdall:latest
 jxxghp/moviepilot:latest
 vaultwarden/server:latest
 halohub/halo:2.16
+jxxghp/moviepilot:latest
+chisbread/qbittorrent:latest
+emby/embyserver:latest
+neosmemo/memos:latest
+webpsh/webp-server-go
