@@ -1,3 +1,4 @@
 xhofe/alist:latest
 linuxserver/heimdall:latest
 jxxghp/moviepilot:latest
+vaultwarden/server
