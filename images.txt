@@ -2,4 +2,4 @@ xhofe/alist:latest
 linuxserver/heimdall:latest
 jxxghp/moviepilot:latest
 vaultwarden/server:latest
-halohub/halo:latest
+halohub/halo:2.16
