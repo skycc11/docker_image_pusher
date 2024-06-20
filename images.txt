@@ -27,3 +27,4 @@ yidadaa/chatgpt-next-web
 zhayujie/chatgpt-on-wechat
 chenhw2/aliyun-ddns-cli
 chisbread/qbittorrent
+metatube/metatube-server:latest
